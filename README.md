@@ -105,6 +105,6 @@ for (int i = 0; i < n - 1; i++) {
 
 ```
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F80ED&width=435&lines=Gracias+por+explorar+el+repositorio!;¡Sigue+explorando+el+universo+de+algoritmos!;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F80ED&width=435&lines=Gracias+por+explorar+el+repositorio!;¡Sigue+explorando+los+algoritmos!;" />
 </p>
 
