@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sorting_algorithm_visualization_animated.gif" width="400" />
+    <img src="https://cdn.jsdelivr.net/gh/abhisheknaiidu/abhisheknaiidu@master/assets/sorting.gif" width="400" />
 </p>
 
 <p align="center">
