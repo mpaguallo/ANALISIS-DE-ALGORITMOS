@@ -1,9 +1,10 @@
 # ANALISIS-DE-ALGORITMOS
 <h1 align="center">📊 Análisis de Algoritmos</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Lenguajes-Python%20%7C%20C++-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Complejidad-Teórica%20y%20Empírica-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lenguaje-Java-blue?style=for-the-badge&logo=java" />
+<img src="https://img.shields.io/badge/Tipo-Análisis%20de%20Algoritmos-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Estado-Actívo-green?style=for-the-badge" />
+
 </p>
 
 <p align="center">
