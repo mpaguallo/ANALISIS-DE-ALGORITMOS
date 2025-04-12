@@ -2,11 +2,8 @@
 <h1 align="center">📊 Análisis de Algoritmos </h1>
 
 <p align="center">
-<span style="pointer-events: none;">
-  <img src="https://img.shields.io/badge/Lenguaje-Java-blue?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/Tipo-Análisis%20Teórico%20%26%20Práctico-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Estado-Activo-green?style=for-the-badge" />
-</span>
+![image](https://github.com/user-attachments/assets/dae5c14c-1bdb-42c1-bbea-ff69664207e1)
+
 
 <p align="center">
     <img src="http://virtual.itpachuca.edu.mx/moodle/pluginfile.php/63387/course/overviewfiles/programacion.gif" width="400" />
