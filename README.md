@@ -71,7 +71,7 @@ Los **algoritmos más eficientes** se seleccionan según el tipo de problema y e
 
 ## 📐 **Algoritmos Analizados**
 
-</details>
+<details>
 <summary>🔁 <strong>Bubble Sort</strong></summary>
 
 <p align="center">
