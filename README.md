@@ -1,5 +1,6 @@
 # ANALISIS-DE-ALGORITMOS
-# 📊 **Análisis de Algoritmos en Java**
+<h1 align="center">
+  #📊 **Análisis de Algoritmos**</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Lenguaje-Java-blue?style=for-the-badge&logo=java" />
@@ -12,7 +13,7 @@
 </p>
 
 <p align="center">
-  <em>“Medir la eficiencia de un algoritmo no es solo contar pasos... es descubrir su alma.”</em>
+  <em>“El análisis de algoritmos no solo mide el tiempo, sino la eficiencia de una idea”</em>
 </p>
 
 ---
