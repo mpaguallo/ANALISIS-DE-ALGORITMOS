@@ -1,55 +1,27 @@
 # ANALISIS-DE-ALGORITMOS
 <h1 align="center">📊 Análisis de Algoritmos</h1>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Lenguaje-Java-blue?style=for-the-badge&logo=java" />
-<img src="https://img.shields.io/badge/Tipo-Análisis%20de%20Algoritmos-purple?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Estado-Actívo-green?style=for-the-badge" />
-
+  <img src="https://img.shields.io/badge/Tipo-Análisis%20Teórico%20%26%20Práctico-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Estado-Actívo-green?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZtdGF1amtxbzU2cmZzOWdvNms3anFqa29jMGdrcHk1M2J4YXZldCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/E1EJOM4i5Rkgg/giphy.gif" alt="algorithms gif" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V5Ynp5NGNqZ2R2M2t5aXpvbGlwaW9oc2prbzFoaWtxc2lhYmxsaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tXL4FHPSnVJ0A/giphy.gif" width="400" />
+</p>
+
+<p align="center">
+  <em>“Medir la eficiencia de un algoritmo no es solo contar pasos... es descubrir su alma.”</em>
 </p>
 
 ---
 
-## 🧭 Tabla de Contenidos
+## 📂 Tabla de Contenidos
 
-- [📌 Introducción](#-introducción)
-- [🚀 Algoritmos Analizados](#-algoritmos-analizados)
-- [📈 Comparativas y Resultados](#-comparativas-y-resultados)
-- [🧠 Conceptos Clave](#-conceptos-clave)
-- [🛠️ Cómo Usarlo](#️-cómo-usarlo)
-- [📸 Galería](#-galería)
-- [📚 Recursos](#-recursos)
-- [🙋‍♂️ Contribuciones](#-contribuciones)
-- [📄 Licencia](#-licencia)
-
----
-
-## 📌 Introducción
-
-Este proyecto tiene como objetivo estudiar, comparar y visualizar el comportamiento de distintos algoritmos clásicos desde el punto de vista **teórico** (notación Big-O) y **práctico** (tiempos reales de ejecución).
-
-> _“El análisis de algoritmos es el arte de entender lo invisible detrás de cada instrucción.”_
-
----
-
-## 🚀 Algoritmos Analizados
-
-- 🔢 Búsqueda:
-  - Búsqueda lineal
-  - Búsqueda binaria
-- 🧮 Ordenamiento:
-  - Bubble Sort
-  - Insertion Sort
-  - Merge Sort
-  - Quick Sort
-- 📉 Divide y vencerás:
-  - Algoritmo de Karatsuba
-  - Máximo subarreglo
-
-<details>
-  <summary>📦 Estructura del proyecto</summary>
-
-
+- [📘 Introducción](#introducción)
+- [📐 Algoritmos Analizados](#algoritmos-analizados)
+- [📊 Gráficas y Comparativas](#gráficas-y-comparativas)
+- [⚙️ Cómo Ejecutarlo](#cómo-ejecutarlo)
+- [🔎 Detalles de cada Algoritmo](#detalles-de-cada-algoritmo)
+- [🎁 Créditos y Recursos](#créditos-y-recursos)
