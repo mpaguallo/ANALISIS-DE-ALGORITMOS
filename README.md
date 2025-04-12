@@ -1,6 +1,6 @@
 # ANALISIS-DE-ALGORITMOS
 <h1 align="center">
-  #📊 **Análisis de Algoritmos**</h1>
+  📊 **Análisis de Algoritmos**</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Lenguaje-Java-blue?style=for-the-badge&logo=java" />
