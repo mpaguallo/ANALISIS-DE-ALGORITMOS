@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <img src="[https://cdn.jsdelivr.net/gh/abhisheknaiidu/abhisheknaiidu@master/assets/sorting.gif](https://www.google.com/url?sa=i&url=http%3A%2F%2Fvirtual.itpachuca.edu.mx%2Fmoodle%2Fcourse%2Finfo.php%3Fid%3D585&psig=AOvVaw1E_iW8P-kPn1ikpLK0AEg6&ust=1744582306494000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJiuwtjB04wDFQAAAAAdAAAAABAx)" width="400" />
+    <img src="http://virtual.itpachuca.edu.mx/moodle/pluginfile.php/63387/course/overviewfiles/programacion.gif" width="400" />
 </p>
 
 <p align="center">
