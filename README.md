@@ -1,5 +1,5 @@
 # ANALISIS-DE-ALGORITMOS
-# 📊 **Análisis de Algoritmos en Java**📊
+# 📊 **Análisis de Algoritmos en Java**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Lenguaje-Java-blue?style=for-the-badge&logo=java" />
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V5Ynp5NGNqZ2R2M2t5aXpvbGlwaW9oc2prbzFoaWtxc2lhYmxsaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tXL4FHPSnVJ0A/giphy.gif" width="400" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Sorting_anim.gif" width="400" />
 </p>
 
 <p align="center">
