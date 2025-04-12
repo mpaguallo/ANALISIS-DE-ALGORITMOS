@@ -2,10 +2,11 @@
 <h1 align="center">📊 Análisis de Algoritmos </h1>
 
 <p align="center">
+<span style="pointer-events: none;">
   <img src="https://img.shields.io/badge/Lenguaje-Java-blue?style=for-the-badge&logo=java" />
   <img src="https://img.shields.io/badge/Tipo-Análisis%20Teórico%20%26%20Práctico-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Estado-Activo-green?style=for-the-badge" />
-</p>
+</span>
 
 <p align="center">
     <img src="http://virtual.itpachuca.edu.mx/moodle/pluginfile.php/63387/course/overviewfiles/programacion.gif" width="400" />
@@ -49,23 +50,14 @@ Los **algoritmos más eficientes** se seleccionan según el tipo de problema y e
 
 ## 🌟 **Tipos de Algoritmos**
 
-1. **Algoritmos de Ordenamiento**  
-   Ejemplo: `Merge Sort`, `Quick Sort`, `Bubble Sort`.
-
-2. **Algoritmos de Búsqueda**  
-   Ejemplo: `Búsqueda Binaria`, `Búsqueda Lineal`.
-
-3. **Algoritmos de Grafos**  
-   Ejemplo: `Dijkstra`, `Floyd-Warshall`.
-
-4. **Algoritmos de Divide y Vencerás**  
-   Ejemplo: `Quick Sort`, `Merge Sort`, `Karatsuba`.
-
-5. **Algoritmos Greedy**  
-   Ejemplo: `Kruskal`, `Prim`.
-
-6. **Algoritmos de Backtracking**  
-   Ejemplo: `Suma de subconjuntos`, `Sudoku`.
+| **Tipos de Algoritmos**                           | **Ejemplos**                                |
+|--------------------------------------------------|--------------------------------------------|
+| 🔁 **Algoritmos de Ordenamiento**                | `Merge Sort`, `Quick Sort`, `Bubble Sort`  |
+| 🔍 **Algoritmos de Búsqueda**                    | `Búsqueda Binaria`, `Búsqueda Lineal`      |
+| 🌐 **Algoritmos de Grafos**                      | `Dijkstra`, `Floyd-Warshall`               |
+| ⚔️ **Algoritmos de Divide y Vencerás**           | `Quick Sort`, `Merge Sort`, `Karatsuba`    |
+| 💰 **Algoritmos Greedy**                         | `Kruskal`, `Prim`                          |
+| 🧩 **Algoritmos de Backtracking**                | `Suma de subconjuntos`, `Sudoku`           |
 
 ---
 
