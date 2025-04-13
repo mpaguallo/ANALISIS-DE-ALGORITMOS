@@ -2,9 +2,8 @@
 <h1 align="center">📊 Análisis de Algoritmos </h1>
 
 <p align="center">
-![image](https://github.com/user-attachments/assets/dae5c14c-1bdb-42c1-bbea-ff69664207e1)
-
-
+<img src="https://raw.githubusercontent.com/mpaguallo/practicas/refs/heads/main/gitp.png?token=GHSAT0AAAAAADB42HZBM367CVSNDJ2JWH3KZ73ACNA"/>
+    
 <p align="center">
     <img src="http://virtual.itpachuca.edu.mx/moodle/pluginfile.php/63387/course/overviewfiles/programacion.gif" width="400" />
 </p>
