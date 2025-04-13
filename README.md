@@ -1,9 +1,7 @@
 
-<h1 align="center">📊 Análisis de Algoritmos </h1>
+<h1 align="center">📊 "Análisis de Algoritmos" 📊</h1>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/mpaguallo/practicas/refs/heads/main/gitp.png?token=GHSAT0AAAAAADB42HZBM367CVSNDJ2JWH3KZ73ACNA"/>
-    
+
 <p align="center">
     <img src="http://virtual.itpachuca.edu.mx/moodle/pluginfile.php/63387/course/overviewfiles/programacion.gif" width="400" />
 </p>
@@ -63,7 +61,7 @@ Los **algoritmos más eficientes** se seleccionan según el tipo de problema y e
 <summary>🔁 <strong>Bubble Sort</strong></summary>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bubble_sort_animated.gif/250px-Bubble_sort_animated.gif" width="200"/>
+  <img src="https://www.programmingsimplified.com/images/c/bubble-sort.gif"/>
 </p>
 
 📌 <strong>Tipo:</strong> Ordenamiento  
