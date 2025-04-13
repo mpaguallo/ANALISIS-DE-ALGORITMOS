@@ -61,7 +61,7 @@ Los **algoritmos más eficientes** se seleccionan según el tipo de problema y e
 <summary>🔁 <strong>Bubble Sort</strong></summary>
 
 <p align="center">
-  <img src="https://www.programmingsimplified.com/images/c/bubble-sort.gif"/>
+  <img src="https://www.programmingsimplified.com/images/c/bubble-sort.gif" width="370"/>
 </p>
 
 📌 <strong>Tipo:</strong> Ordenamiento  
@@ -132,7 +132,7 @@ void quickSort(int[] arr, int low, int high) {
 
 ```
 </details>
-<details> <summary>🔎 <strong>Búsqueda Binaria</strong></summary> <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Binary_search_algorithm_diagram.png/500px-Binary_search_algorithm_diagram.png" width="250"/> </p>
+<details> <summary>🔎 <strong>Búsqueda Binaria</strong></summary> <p align="center"> <img src="https://www.freecodecamp.org/espanol/news/content/images/2021/03/binary-search-1.gif" width="430"/> </p>
 📌 <strong>Tipo:</strong> Búsqueda
 🧠 <strong>Complejidad Temporal:</strong>
 
@@ -165,7 +165,7 @@ int binarySearch(int[] arr, int x) {
 }
 ```
 </details>
-<details> <summary>🌉 <strong>Floyd-Warshall</strong></summary> <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Floyd-Warshall-example.svg" width="300"/> </p>
+<details> <summary>🌉 <strong>Floyd-Warshall</strong></summary> <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Floyd_warshall_gif.gif" width="210"/> </p>
 📌 <strong>Tipo:</strong> Grafos
 🧠 <strong>Complejidad Temporal:</strong>
 
