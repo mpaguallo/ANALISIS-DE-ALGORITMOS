@@ -1,5 +1,6 @@
 <h1 align="center"> 🧠 Algoritmia Elemental  </h1>
-📘 *Basado en "Fundamentos de Algoritmia" — G. Brassard & P. Bratley*
+<p align="center"> 📘 Basado en "Fundamentos de Algoritmia" — G. Brassard & P. Bratley
+<p align="center"> <img src="https://mujeres360.org/wp-content/uploads/2021/09/algoritmos.jpeg" width="350"/> </p>
 
 ---
 
