@@ -5,13 +5,12 @@
 
 ## 📚 Índice General
 
-- 📝 [Notación](1-#-notación)
-- ❌ [Contradicción](#12-contradicción)
-- 🧬 [Inducción Matemática](#13-inducción-matemática)
-- 🧠 [Problemas Propuestos](#14-problemas-propuestos)
-- ❓ [Preguntas Frecuentes](#15-preguntas-frecuentes)
-- 🎯 [Mini Quiz](#16-mini-quiz)
-
+- 📝 [Notación](#1--notación)
+- ❌ [Contradicción](#2--contradicción)
+- 🧬 [Inducción Matemática](#3--inducción-matemática)
+- 🧠 [Problemas Propuestos](#4--problemas-propuestos)
+- ❓ [Preguntas Frecuentes](#5--preguntas-frecuentes)
+- 🎯 [Mini Quiz](#6--mini-quiz)
 ---
 
 ## 1. 📐 Notación
@@ -50,7 +49,7 @@ Las notaciones básicas permiten describir fórmulas compactas:
 
 ---
 
-## 1.2. ❌ Contradicción
+## 2. ❌ Contradicción
 
 <details>
 <summary>🧩 ¿Cómo funciona esta técnica?</summary>
@@ -79,7 +78,7 @@ Supongamos que √2 = a/b, con a y b enteros coprimos.
 
 ---
 
-## 1.3. 🧬 Inducción Matemática
+## 3. 🧬 Inducción Matemática
 
 <details>
 <summary>📖 Ver explicación con ejemplo</summary>
@@ -124,7 +123,7 @@ La **inducción matemática** es una técnica de demostración fundamental.
 
 ---
 
-## 1.4. 🧠 Problemas Propuestos
+## 4. 🧠 Problemas Propuestos
 
 <details>
 <summary>🎯 Ver ejercicios con solución paso a paso</summary>
@@ -184,7 +183,7 @@ Si 2·k² ≥ (k + 1)² para k ≥ 5, se cumple
 
 ---
 
-## 1.5. ❓ Preguntas Frecuentes
+## 5. ❓ Preguntas Frecuentes
 
 <details>
 <summary>📊 ¿Qué diferencia hay entre O(n), Ω(n) y Θ(n)?</summary>
@@ -215,7 +214,7 @@ Dominante: `n²`
 
 ---
 
-## 1.6. 🧠 Mini Quiz: ¿Qué tanto sabes?
+## 6. 🧠 Mini Quiz
 
 > ✅ Simulación de respuestas usando `<details>` para autocorrección.
 
