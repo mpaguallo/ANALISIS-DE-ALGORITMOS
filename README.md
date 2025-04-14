@@ -17,6 +17,7 @@
 - [📌 Introducción](#-introducción)
   - [🔑 Concepto de Algoritmia](#-concepto-de-algoritmia)
   - [📚 Análisis de Algoritmos](#-análisis-de-algoritmos)
+  - [📊 Tipos de Análisis](#-tipos-de-análisis)
 - [🌟 Tipos de Algoritmos](#-tipos-de-algoritmos)
 - [📐 Algoritmos Analizados](#-algoritmos-analizados)
   - [🔁 Bubble Sort](#bubble-sort)
@@ -39,6 +40,20 @@ La **algoritmia** es el arte de diseñar y analizar algoritmos, es decir, de cre
 El **análisis de algoritmos** se refiere al estudio de la **eficiencia** de los algoritmos. Este análisis se enfoca principalmente en el tiempo que tardan en ejecutarse (**complejidad temporal**) y la cantidad de recursos que consumen, como la **memoria** (**complejidad espacial**). 
 
 Los **algoritmos más eficientes** se seleccionan según el tipo de problema y el tamaño de los datos.
+
+### 📊 **Tipos de Análisis**
+
+Existen distintos enfoques para analizar la eficiencia de un algoritmo dependiendo del escenario:
+
+| 🧪 Tipo de Análisis | 📋 Descripción | 💬 Ejemplo en Bubble Sort |
+|--------------------|----------------|----------------------------|
+| ✅ **Mejor caso**   | Cuando la entrada está en condiciones óptimas. El algoritmo se comporta de forma muy eficiente. | Lista ya ordenada: `[1, 2, 3, 4]` → `O(n)` |
+| ⚠️ **Caso promedio** | Entrada aleatoria, comportamiento típico del algoritmo. | Lista desordenada parcialmente: `[4, 1, 3, 2]` → `O(n²)` |
+| 🚨 **Peor caso**    | Entrada en las peores condiciones posibles. El algoritmo tarda más. | Lista invertida: `[5, 4, 3, 2, 1]` → `O(n²)` |
+
+> 🎯 **¿Por qué es útil este análisis?**  
+> Es útil este análisi, porque nos ayuda a prever el rendimiento del algoritmo en diferentes contextos. ¡Así sabrás cuándo es una buena idea usarlo y cuándo no!
+
 
 ---
 
