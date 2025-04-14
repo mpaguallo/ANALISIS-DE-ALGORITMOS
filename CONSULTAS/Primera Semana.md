@@ -14,7 +14,7 @@
 - 🎯 [Mini Quiz](#6--mini-quiz)
 ---
 
-## 1. 📐 Notación
+## 1. 📝 Notación
 
 <details>
 <summary>📘 Haz clic para ver detalles</summary>
@@ -215,7 +215,7 @@ Dominante: `n²`
 
 ---
 
-## 6. 🧠 Mini Quiz
+## 6. 🎯 Mini Quiz
 
 > ✅ Simulación de respuestas usando `<details>` para autocorrección.
 
