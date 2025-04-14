@@ -296,3 +296,6 @@ El crecimiento exponencial supera al polinomial a partir de ese punto.
 </details>
 
 ---
+<p align="center">
+ 🧩 "Cada algoritmo elemental resuelve más que un problema: entrena la mente para pensar con precisión y creatividad."
+
