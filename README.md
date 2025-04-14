@@ -15,7 +15,7 @@
 ## 🧭 **Tabla de Contenidos**
 
 - [📌 Introducción](#-introducción)
-  - [🔑 Conceptos de Algoritmia](#-conceptos-de-algoritmia)
+  - [🔑 Concepto de Algoritmia](#-concepto-de-algoritmia)
   - [📚 Análisis de Algoritmos](#-análisis-de-algoritmos)
 - [🌟 Tipos de Algoritmos](#-tipos-de-algoritmos)
 - [📐 Algoritmos Analizados](#-algoritmos-analizados)
