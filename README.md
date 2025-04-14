@@ -12,7 +12,7 @@
 
 ---
 
-## 🧭 **Tabla de Contenidos**
+## 🧭 **Índice de Contenidos**
 
 - [📌 Introducción](#-introducción)
   - [🔑 Concepto de Algoritmia](#-concepto-de-algoritmia)
