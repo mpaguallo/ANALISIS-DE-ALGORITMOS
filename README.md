@@ -30,7 +30,7 @@
 
 ## 📌 **Introducción**
 
-### 🔑 **Conceptos de Algoritmia**
+### 🔑 **Concepto de Algoritmia**
 
 La **algoritmia** es el arte de diseñar y analizar algoritmos, es decir, de crear métodos eficientes para resolver problemas mediante una secuencia de pasos bien definidos. En la **programación** moderna, los algoritmos son el núcleo de todo lo que hacemos. 🧠
 
