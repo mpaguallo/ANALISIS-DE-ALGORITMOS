@@ -5,15 +5,16 @@
 
 ## 📚 Índice General
 
-- [1.1 Notación](#11-notación)
-- [1.2 Contradicción](#12-contradicción)
-- [1.3 Inducción Matemática](#13-inducción-matemática)
-- [1.4 Problemas Propuestos](#14-problemas-propuestos)
-- [1.5 Preguntas Frecuentes](#15-preguntas-frecuentes)
-- [1.6 Mini Quiz](#16-mini-quiz)
+- 📝 [Notación](1-#-notación)
+- ❌ [Contradicción](#12-contradicción)
+- 🧬 [Inducción Matemática](#13-inducción-matemática)
+- 🧠 [Problemas Propuestos](#14-problemas-propuestos)
+- ❓ [Preguntas Frecuentes](#15-preguntas-frecuentes)
+- 🎯 [Mini Quiz](#16-mini-quiz)
+
 ---
 
-## 1.1. 📐 Notación
+## 1. 📐 Notación
 
 <details>
 <summary>📘 Haz clic para ver detalles</summary>
@@ -264,6 +265,7 @@ El crecimiento exponencial supera al polinomial a partir de ese punto.
 </details>
 
 ---
+
 ### ✅ Pregunta 4  
 ¿Cuál es el paso **clave** para aplicar inducción matemática?
 
@@ -273,7 +275,7 @@ El crecimiento exponencial supera al polinomial a partir de ese punto.
 
 <details>
 <summary>💡 Ver explicación</summary>
-✅ El paso inductivo parte de asumir que funciona para `n = k` y probar para `n = k + 1`.
+✅ El paso inductivo parte de asumir que funciona para `n = k` y probar para `n = k + 1` .
 </details>
 
 ---
