@@ -233,7 +233,13 @@ while (!pq.isEmpty()) {
 
 ```
 </details>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=450&lines=%C2%A1Sigue+explorando+los+algoritmos!+🚀" />
+  <span style="font-family: 'Fira Code', monospace; font-size: 22px; white-space: nowrap; border-right: 3px solid; animation: typing 3s steps(30, end), blink .75s step-end infinite;">
+    ¡Sigue explorando los algoritmos! 🚀
+  </span>
 </p>
+
+
+
 
