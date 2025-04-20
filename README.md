@@ -230,13 +230,9 @@ while (!pq.isEmpty()) {
         }
     }
 }
-
 ```
 </details>
-📝 **Nota**
-
-╔══════════════════════════════════════╗ 
-║ 🚀 ¡Sigue explorando los algoritmos!║ 
-║ Cada línea de código te hace crecer  ║ 
-║ como desarrollador 🧠💻             ║ 
-╚══════════════════════════════════════╝
+<p align="center">
+  ✨ <strong>¡Sigue explorando los algoritmos!</strong> ✨<br>
+  🧠 Cada línea de código te acerca al dominio total del algoritmo. 💡
+</p>
