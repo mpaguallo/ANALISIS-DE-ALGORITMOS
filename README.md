@@ -234,6 +234,6 @@ while (!pq.isEmpty()) {
 ```
 </details>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F80ED&width=435&lines=Gracias+por+explorar+el+repositorio!;¡Sigue+explorando+los+algoritmos!;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=450&lines=%C2%A1Sigue+explorando+los+algoritmos!+🚀" />
 </p>
 
