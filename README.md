@@ -233,13 +233,10 @@ while (!pq.isEmpty()) {
 
 ```
 </details>
+📝 **Nota**
 
-<p align="center">
-  <span style="font-family: 'Fira Code', monospace; font-size: 22px; white-space: nowrap; border-right: 3px solid; animation: typing 3s steps(30, end), blink .75s step-end infinite;">
-    ¡Sigue explorando los algoritmos! 🚀
-  </span>
-</p>
-
-
-
-
+╔══════════════════════════════════════╗ 
+║ 🚀 ¡Sigue explorando los algoritmos!║ 
+║ Cada línea de código te hace crecer  ║ 
+║ como desarrollador 🧠💻             ║ 
+╚══════════════════════════════════════╝
