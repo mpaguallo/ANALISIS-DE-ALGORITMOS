@@ -233,6 +233,8 @@ while (!pq.isEmpty()) {
 ```
 </details>
 <p align="center">
-  ✨ <strong>¡Sigue explorando los algoritmos!</strong> ✨<br>
-  🧠 Cada línea de código te acerca al dominio total del algoritmo. 💡
+  🧠 <strong>Cada línea de código te acerca al dominio total del algoritmo. 💡<br>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=++++📚+¡Sigue+explorando+algoritmos!+💻" alt="Typing SVG" />
 </p>
