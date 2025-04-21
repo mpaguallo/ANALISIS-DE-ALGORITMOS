@@ -1,13 +1,23 @@
 
 <!-- Encabezado súper cute y decorativo ✨ -->
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=✨+Algoritmia+elemental+💻" alt="Typing SVG" />
 </p>
 
+## 📚 Tabla de contenidos
+
+1. [🧠 1. ¿Qué es la algoritmia elemental?](#1-qué-es-la-algoritmia-elemental)
+2. [⚙️ 1.2 Eficiencia de los algoritmos](#12-eficiencia-de-los-algoritmos)  
+   - [🕐 Eficiencia temporal](#eficiencia-temporal)  
+   - [💾 Eficiencia espacial](#eficiencia-espacial)  
+   - [🧮 Notaciones más usadas](#notaciones-más-usadas)
+3. [📊 1.3 Análisis del caso medio](#13-análisis-del-caso-medio)  
+4. [🛠️ Ejemplo comparativo](#ejemplo-comparativo)
+5. [🎯 Mini Quiz interactivo](#mini-quiz)  
+6. [🌟 ¿Sabías que...?](#sabías-que--curiosidades-de-algoritmos-)
+7. [📚 Referencias](#referencias)
 
 ---
-
 ## 🧠 1. ¿Qué es la algoritmia elemental?
 
 > 💡 **Definición:**  
@@ -97,11 +107,83 @@ Donde:
 ---
 
 ### 🧠 Quizlet interactivo para repasar
+## 🎯 Mini Quiz  
+✅ Simulación de respuestas usando `<details>` para autocorrección.
 
-📚 Accede a un mini-quiz hecho especialmente para ti con las notaciones y ejemplos básicos:  
-👉 [📘 Quiz de Notaciones Algorítmicas (modo estudio)](https://quizlet.com/es/803803614/notaciones-algoritmicas-flash-cards/)
+---
 
-> Puedes practicar con tarjetas, escribir, emparejar y hacer pruebas 😍
+### ✅ Pregunta 1  
+¿Cuál notación representa el peor caso de un algoritmo?
+
+- O(n)  
+- Θ(n)  
+- Ω(n)  
+
+<details>
+<summary>💡 Ver respuesta</summary>
+🔺 La notación **O(n)** representa el **peor caso** de un algoritmo, ya que define un límite superior para el crecimiento de su tiempo de ejecución.
+</details>
+
+---
+
+### ✅ Pregunta 2  
+¿Cuál de estas opciones representa un **tiempo constante**?
+
+- O(1)  
+- O(n)  
+- O(n log n)  
+
+<details>
+<summary>💡 Ver respuesta</summary>
+⚡ **O(1)** significa que el tiempo de ejecución no depende del tamaño de la entrada. ¡Es lo más rápido que se puede lograr!
+</details>
+
+---
+
+### ✅ Pregunta 3  
+En un algoritmo de búsqueda lineal, ¿cuál es el tiempo promedio de ejecución?
+
+- O(1)  
+- O(n)  
+- O(n/2)  
+
+<details>
+<summary>💡 Ver explicación</summary>
+📊 En promedio, el elemento será encontrado a la mitad de la lista:  
+\[
+T_{\text{medio}}(n) = \frac{1}{n} \sum_{i=1}^{n} i = \frac{n+1}{2}
+\]  
+Esto se simplifica como **O(n)** en notación Big-O.
+</details>
+
+---
+
+### ✅ Pregunta 4  
+¿Qué notación representa el **comportamiento exacto** del algoritmo?
+
+- Θ(n)  
+- O(n)  
+- Ω(n²)  
+
+<details>
+<summary>💡 Ver respuesta</summary>
+⚖️ **Θ(n)** representa el comportamiento exacto del algoritmo si el peor y mejor caso coinciden en orden de crecimiento.
+</details>
+
+---
+
+### ✅ Pregunta 5  
+Verdadero o Falso:  
+> "El análisis del caso medio se basa en suposiciones probabilísticas sobre las entradas."
+
+- Verdadero  
+- Falso  
+
+<details>
+<summary>💡 Ver explicación</summary>
+✅ ¡Verdadero! El **caso medio** supone que todas las entradas del mismo tamaño son igualmente probables. Se calcula como un valor esperado ponderado.
+</details>
+
 
 ---
 
