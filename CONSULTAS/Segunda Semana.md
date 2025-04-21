@@ -10,7 +10,7 @@
 
 | Sección | Enlace |
 |--------|--------|
-| 🧠 ¿Qué es la algoritmia elemental? | [Ir](#1-qué-es-la-algoritmia-elemental) |
+| 🧠 ¿Qué es la algoritmia elemental? | [Ir](🧠-qué-es-la-algoritmia-elemental) |
 | ⚙️ Eficiencia de los algoritmos     | [Ir](#12-eficiencia-de-los-algoritmos) |
 | 📊 Caso medio                      | [Ir](#13-análisis-del-caso-medio) |
 | 🛠️ Ejemplo comparativo             | [Ir](#🛠️-ejemplo-comparativo) |
@@ -23,7 +23,7 @@
 
 
 ---
-## 🧠 1. ¿Qué es la algoritmia elemental?
+## 🧠¿Qué es la algoritmia elemental?
 
 > 💡 **Definición:**  
 La algoritmia elemental estudia los **algoritmos básicos**, sus estructuras y comportamientos ante diferentes entradas. Son los bloques fundamentales para resolver problemas de forma sistemática, ordenada y eficiente.
@@ -36,7 +36,7 @@ La algoritmia elemental estudia los **algoritmos básicos**, sus estructuras y c
 | 📥 Entrada           | Debe recibir uno o más datos de entrada.                        |
 | 📤 Salida            | Debe generar uno o más resultados o respuestas.                 |
 | ⚡ Efectividad       | Cada operación debe poder realizarse en un tiempo finito.       |
-
+</details>
 ## ⚙️ 1.2 Eficiencia de los algoritmos
 
 > 🔍 Estudia **cuánto tiempo** y **cuánta memoria** necesita un algoritmo al ejecutarse según el tamaño de la entrada `n`.
