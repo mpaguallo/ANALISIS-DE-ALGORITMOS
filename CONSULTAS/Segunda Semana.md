@@ -2,23 +2,11 @@
 <!-- Encabezado súper cute y decorativo ✨ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=🌸+Bienvenida+a+la+Algoritmia+Elemental+🌸;📚+Con+amor+y+lógica%2C+todo+es+posible+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=✨+Algoritmia+elemental+💻" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200px" />
-</p>
-
-<p align="center">
-  <strong>🌟 Repositorio interactivo sobre Algoritmos 🌟</strong><br>
-  ✍️ Desarrollado con base en <em>Cormen et al. (2022)</em> y <em>Brassard G.</em><br>
-  💕 Ideal para estudiantes, curiosos y amantes de la programación
-</p>
 
 ---
-
-# ✨ Algoritmia Elemental ✨  
-📚 *Basado en: Cormen et al. (2022) & Brassard G. – Fundamentos de algoritmia*
 
 ## 🧠 1. ¿Qué es la algoritmia elemental?
 
@@ -82,9 +70,11 @@ Evalúa el uso de **memoria o espacio adicional**.
 
 ### 📐 Fórmula del caso medio:
 ```math
-T(n) = Σ [ P(i) * T_i(n) ]  para i en entradas posibles
+T(n) = Σ [ P(i) * T_i(n) ]     
 ```
-
+<p align="center">
+para i en entradas posibles
+</p>
 Donde:
 - `P(i)` = probabilidad de la entrada `i`.
 - `T_i(n)` = tiempo que toma el algoritmo con esa entrada.
@@ -101,22 +91,35 @@ Donde:
 
 > 🧠 **Conclusión**: Aunque el caso peor es importante, el **caso medio refleja lo que ocurre en la práctica.**
 
-## 🌐 Ideas interactivas para tu GitHub
 
-- ✅ Agrega **GIFs animados** explicando notaciones.
-- ✅ Usa **canva.com** para hacer infografías y meterlas como imágenes.
-- ✅ Añade bloques de código ejecutable con [replit.com](https://replit.com).
-- ✅ Crea un pequeño **Quizlet** para repasar notaciones y ejemplos.
-- ✅ ¡Haz una sección de "Sabías que..." con curiosidades de algoritmos!
 
-## 💬 Cierre bonito
 
-> 📌 *Estudiar algoritmos es como aprender a pensar paso a paso, con lógica, belleza y propósito. Cada algoritmo resuelto es una victoria del pensamiento claro.*
+---
 
-🎀 **¡Tú puedes, Pau!** Cada línea de código que entiendes te convierte en una maga de la lógica ✨
+### 🧠 Quizlet interactivo para repasar
+
+📚 Accede a un mini-quiz hecho especialmente para ti con las notaciones y ejemplos básicos:  
+👉 [📘 Quiz de Notaciones Algorítmicas (modo estudio)](https://quizlet.com/es/803803614/notaciones-algoritmicas-flash-cards/)
+
+> Puedes practicar con tarjetas, escribir, emparejar y hacer pruebas 😍
+
+---
+
+### 🌟 ¿Sabías que...? — Curiosidades de algoritmos 🌈
+
+🧩 El término "algoritmo" proviene del matemático persa **Al-Juarismi**, cuyo nombre latinizado fue “Algoritmi”.  
+  
+🧠 El algoritmo más antiguo registrado es el de **Euclides**, para calcular el máximo común divisor (MCD), ¡tiene más de 2300 años!
+
+📦 Google utiliza miles de algoritmos en paralelo para mostrar resultados de búsqueda en milisegundos.
+
+🎲 ¡Incluso en los videojuegos y TikToks hay algoritmos detrás de cada decisión!
+
+🧚‍♀️ Los algoritmos de aprendizaje profundo imitan el funcionamiento del cerebro, y se usan en medicina, arte, y más 💙
+
+---
 
 ## 📚 Referencias
 
 - Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2022). *Introduction to Algorithms* (4th ed.).
 - Brassard, G., & Bratley, P. *Fundamentos de algoritmia*
-
