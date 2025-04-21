@@ -1,3 +1,15 @@
+ ## 📚 Índice General  
+
+1. [🧠 ¿Qué es la algoritmia elemental?](#qué-es-la-algoritmia-elemental)  
+2. [⚙️ 1.2 Eficiencia de los algoritmos](#12-eficiencia-de-los-algoritmos)  
+   - [🕐 Eficiencia temporal](#eficiencia-temporal)  
+   - [💾 Eficiencia espacial](#eficiencia-espacial)  
+   - [🧮 Notaciones más usadas](#notaciones-más-usadas)  
+3. [📊 1.3 Análisis del caso medio](#13-análisis-del-caso-medio)  
+4. [🛠️ Ejemplo comparativo](#ejemplo-comparativo)  
+5. [🎯 Mini Quiz interactivo](#mini-quiz)  
+6. [🌟 ¿Sabías que...?](#sabías-que-curiosidades-de-algoritmos)  
+7. [📚 Referencias](#referencias)
 
 <!-- Encabezado súper cute y decorativo ✨ -->
 <p align="center">
@@ -5,19 +17,8 @@
 </p>
 
 ---
-## 📚 Índice General  
 
 
-1. [🧠 ¿Qué es la algoritmia elemental?](#qué-es-la-algoritmia-elemental)  
-2. [⚙️ 1.2 Eficiencia de los algoritmos](#12-eficiencia-de-los-algoritmos)  
-   - [🕐 Eficiencia temporal](#-eficiencia-temporal)  
-   - [💾 Eficiencia espacial](#-eficiencia-espacial)  
-   - [🧮 Notaciones más usadas](#-notaciones-más-usadas)  
-3. [📊 1.3 Análisis del caso medio](#13-análisis-del-caso-medio)  
-4. [🛠️ Ejemplo comparativo](#ejemplo-comparativo)  
-5. [🎯 Mini Quiz interactivo](#mini-quiz)  
-6. [🌟 ¿Sabías que...?](#sabías-que--curiosidades-de-algoritmos-)  
-7. [📚 Referencias](#-referencias)
 
 ---
 <details open>
