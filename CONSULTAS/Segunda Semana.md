@@ -4,18 +4,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=✨+Algoritmia+elemental+💻" alt="Typing SVG" />
 </p>
 
-## 📚 Tabla de contenidos
+## 📚 Índice General
 
-1. [🧠 1. ¿Qué es la algoritmia elemental?](#1-qué-es-la-algoritmia-elemental)
+[🧠 1. ¿Qué es la algoritmia elemental?](#1-qué-es-la-algoritmia-elemental)
 2. [⚙️ 1.2 Eficiencia de los algoritmos](#12-eficiencia-de-los-algoritmos)  
    - [🕐 Eficiencia temporal](#eficiencia-temporal)  
    - [💾 Eficiencia espacial](#eficiencia-espacial)  
-   - [🧮 Notaciones más usadas](#notaciones-más-usadas)
+   - [🧮 Notaciones más usadas](#🧮-notaciones-más-usadas)
 3. [📊 1.3 Análisis del caso medio](#13-análisis-del-caso-medio)  
-4. [🛠️ Ejemplo comparativo](#ejemplo-comparativo)
-5. [🎯 Mini Quiz interactivo](#mini-quiz)  
-6. [🌟 ¿Sabías que...?](#sabías-que--curiosidades-de-algoritmos-)
-7. [📚 Referencias](#referencias)
+4. [🛠️ Ejemplo comparativo](#🛠️-ejemplo-comparativo)
+5. [🎯 Mini Quiz interactivo](#🎯-mini-quiz)  
+6. [🌟 ¿Sabías que...?](#🌟-¿sabías-que--curiosidades-de-algoritmos-)
+7. [📚 Referencias](#📚-referencias)
 
 ---
 ## 🧠 1. ¿Qué es la algoritmia elemental?
