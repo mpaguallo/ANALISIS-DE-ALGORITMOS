@@ -13,6 +13,7 @@
 - 🧠 [4. Problemas Resueltos](#4--problemas-resueltos)
 - ❓ [5. Preguntas Frecuentes](#5--preguntas-frecuentes)
 - 🎯 [6. Mini Quiz](#6--mini-quiz)
+- 📚 [7. Referencias](#7--referencias)
 
 ---
 
@@ -267,7 +268,7 @@ Verdadero o Falso:
 </details>
 
 ---
-## 📚 Referencias
+## 7. 📚 Referencias
 
 <details>
 <summary>Haz clic para ver detalles</summary>
