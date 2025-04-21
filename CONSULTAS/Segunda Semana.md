@@ -21,7 +21,7 @@
 
 ---
 <details open>
-<summary><h3>🧠 ¿Qué es la algoritmia elemental?</h2></summary>
+<summary><h3>🧠 ¿Qué es la algoritmia elemental?</h3></summary>
 
 > 💡 **Definición:**  
 La algoritmia elemental estudia los **algoritmos básicos**, sus estructuras y comportamientos ante diferentes entradas. Son los bloques fundamentales para resolver problemas de forma sistemática, ordenada y eficiente.
@@ -38,11 +38,11 @@ La algoritmia elemental estudia los **algoritmos básicos**, sus estructuras y c
 
 ---
 <details open>
-<summary><h3>🧠 ⚙️ 1.2 Eficiencia de los algoritmos?</h2></summary>
+<summary><h3>⚙️ 1.2 Eficiencia de los algoritmos?</h3></summary>
 
 > 🔍 Estudia **cuánto tiempo** y **cuánta memoria** necesita un algoritmo al ejecutarse según el tamaño de la entrada `n`.
 
-### 🕐 Eficiencia temporal:
+### 🕐 -Eficiencia temporal:
 Evalúa la **cantidad de operaciones** o el tiempo de ejecución.
 
 #### 🧪 Ejemplo:
@@ -51,24 +51,28 @@ for (int i = 0; i < n; i++) {
    cout << "Hola Pau! 💻";
 }
 ```
+---
 🔍 **Complejidad temporal**: O(n)
 
-### 💾 Eficiencia espacial:
+### 💾 -Eficiencia espacial:
 Evalúa el uso de **memoria o espacio adicional**.
 
 #### Ejemplo:
 - Un algoritmo que usa un arreglo auxiliar de tamaño `n` → Espacio: O(n)
 - Si solo usa variables simples → Espacio: O(1)
 
-### 🧮 Notaciones más usadas:
+### 🧮 -Notaciones más usadas:
 
 | Notación | Nombre              | Significado                                     |
 |----------|---------------------|-------------------------------------------------|
 | O(f(n))  | 🧨 *Notación Big-O*  | Caso **peor**: el máximo tiempo/memoria.       |
 | Ω(f(n))  | 🍃 *Omega*           | Caso **mejor**: el mínimo que puede tomar.     |
 | Θ(f(n))  | ⚖️ *Theta*           | Caso **medio**: comportamiento promedio.       |
+</details>
 
-## 📊 1.3 Análisis del caso medio
+---
+<details open>
+<summary><h3> 📊 1.3 Análisis del caso medio </h3></summary>
 
 > 🎯 Estudia el **comportamiento promedio** del algoritmo considerando la probabilidad de todas las entradas posibles.
 
@@ -104,19 +108,12 @@ Donde:
 | Mejor (está al inicio) | 1       |
 | Peor (está al final o no está) | n       |
 | Medio (posición aleatoria) | n/2     |
-
-> 🧠 **Conclusión**: Aunque el caso peor es importante, el **caso medio refleja lo que ocurre en la práctica.**
-
-
-
+</details>
 
 ---
 
-### 🧠 Quizlet interactivo para repasar
-## 🎯 Mini Quiz  
-✅ Simulación de respuestas usando `<details>` para autocorrección.
-
----
+<details open>
+<summary><h3> 🎯 Mini Quiz   </h3></summary>
 
 ### ✅ Pregunta 1  
 ¿Cuál notación representa el peor caso de un algoritmo?
@@ -190,10 +187,11 @@ Verdadero o Falso:
 ✅ ¡Verdadero! El **caso medio** supone que todas las entradas del mismo tamaño son igualmente probables. Se calcula como un valor esperado ponderado.
 </details>
 
+</details>
 
 ---
-
-### 🌟 ¿Sabías que...? — Curiosidades de algoritmos 🌈
+<details open>
+<summary><h3> 🌟 ¿Sabías que...? — Curiosidades de algoritmos 🌈 </h3></summary>
 
 🧩 El término "algoritmo" proviene del matemático persa **Al-Juarismi**, cuyo nombre latinizado fue “Algoritmi”.  
   
@@ -205,9 +203,22 @@ Verdadero o Falso:
 
 🧚‍♀️ Los algoritmos de aprendizaje profundo imitan el funcionamiento del cerebro, y se usan en medicina, arte, y más 💙
 
+</details>
+
 ---
 
-## 📚 Referencias
+<details open>
+<summary><h3> 🧠 Conclusión </h3></summary>
+Aunque el caso peor es importante, el **caso medio refleja lo que ocurre en la práctica.**
+
+</details>
+
+---
+
+<details open>
+<summary><h3>  📚 Referencias </h3></summary>
 
 - Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2022). *Introduction to Algorithms* (4th ed.).
 - Brassard, G., & Bratley, P. *Fundamentos de algoritmia*
+  
+</details>
