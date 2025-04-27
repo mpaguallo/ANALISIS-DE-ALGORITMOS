@@ -15,6 +15,7 @@
 ## 🧭 **Índice de Contenidos**
 
 - [📌 Introducción](#-introducción)
+  - [📹 Video Destacado](#-video-destacado)
   - [🔑 Concepto de Algoritmia](#-concepto-de-algoritmia)
   - [📚 Análisis de Algoritmos](#-análisis-de-algoritmos)
   - [📊 Tipos de Análisis](#-tipos-de-análisis)
@@ -29,10 +30,11 @@
 
 ---
 ## 📌 **Introducción**
-# 📹 Video Destacado
 
-Explora los fundamentos esenciales de algoritmia en este video introductorio.  
-Un recurso perfecto para fortalecer tu base y avanzar con confianza en el mundo de la programación.
+### 📹 **Video Destacado**
+
+✨ Explora los fundamentos esenciales de algoritmia en este video introductorio.  
+🔍 Un recurso perfecto para fortalecer tu base y avanzar con **confianza** en el mundo de la programación. 🚀  
 
 ---
 
