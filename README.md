@@ -40,9 +40,11 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=Z-M_I130Rfk">
-    <img src="https://img.youtube.com/vi/Z-M_I130Rfk/hqdefault.jpg" alt="Mira el video en YouTube"/>
+    <img src="https://img.youtube.com/vi/Z-M_I130Rfk/hqdefault.jpg" alt="Ver video en YouTube" style="border: 10px solid #FF6347; border-radius: 15px; box-shadow: 0px 10px 15px rgba(0,0,0,0.3);"/>
   </a>
 </p>
+
+<p align="center" style="font-size: 18px; color: #FF6347; font-weight: bold;">🎬 Dale clic en la imagen para ver el video 🎬</p>
 
 ---
 
