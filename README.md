@@ -28,8 +28,21 @@
 
 
 ---
-
 ## 📌 **Introducción**
+# 📹 Video Destacado
+
+Explora los fundamentos esenciales de algoritmia en este video introductorio.  
+Un recurso perfecto para fortalecer tu base y avanzar con confianza en el mundo de la programación.
+
+---
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Z-M_I130Rfk">
+    <img src="https://img.youtube.com/vi/Z-M_I130Rfk/hqdefault.jpg" alt="Mira el video en YouTube"/>
+  </a>
+</p>
+
+---
 
 ### 🔑 **Concepto de Algoritmia**
 
