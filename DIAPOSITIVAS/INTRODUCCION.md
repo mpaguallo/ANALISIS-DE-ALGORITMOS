@@ -1,4 +1,4 @@
-# 📽️🌈 Presentaciones y Diapositivas 🌈📽️
+# 📽️ Presentaciones y Diapositivas 📽️
 
 <details>
   <summary><strong>📊 Introducción</strong></summary>
