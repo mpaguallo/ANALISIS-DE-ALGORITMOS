@@ -3,13 +3,12 @@
 ---
 
 ## 📚 Índice General
-
-📘 [1. Fundamentos](#1-fundamentos)  
-💣 [2. Caso Peor](#2-caso-peor)  
-⚙️ [3. Operación Elemental](#3-operacion-elemental)  
-🧩 [4. Ejemplos Interactivos](#4-ejemplos-interactivos)  
-🧠 [5. Mini Reto / Quiz](#5-mini-reto--quiz)  
-📚 [6. Referencias](#6-referencias)  
+- 📘 [1. Fundamentos](#1--fundamentos)
+- 💣 [2. Caso Peor](#2--caso-peor)  
+- ⚙️ [3. Operación Elemental](#3--operacion-elemental)  
+- 🧩 [4. Ejemplos Interactivos](#4--ejemplos-interactivos)  
+- 🧠 [5. Mini Reto / Quiz](#5--mini-reto--quiz)  
+- 📚 [6. Referencias](#6--referencias)  
 
 ---
 
@@ -64,8 +63,8 @@ Inicio
    Escribir resultado
 Fin
 ```
+<br>
 
----
 
 ## 💣 2. Caso Peor
 
