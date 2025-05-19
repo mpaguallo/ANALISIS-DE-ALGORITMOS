@@ -1,10 +1,12 @@
-# 📚 Algoritmia Elemental
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=✨+Semana+3+–+Caso+Peor+💣"/>
+</p>
 
 ---
 
 ## 📚 Índice General
 - 📘 [1. Fundamentos](#1--fundamentos)
-- 💣 [2. Caso Peor](#2--caso-peor)  
+- 💣 [2. Caso Peor](#2--caso-peor)
 - ⚙️ [3. Operación Elemental](#3--operacion-elemental)  
 - 🧩 [4. Ejemplos Interactivos](#4--ejemplos-interactivos)  
 - 🧠 [5. Mini Reto / Quiz](#5--mini-reto--quiz)  
@@ -108,7 +110,9 @@ D --> B
 | Caso promedio  | Valor esperado               | O(n/2) ≈ O(n) |
 | Peor caso      | Escenario más desfavorable   | O(n)        |
 
----
+<br>
+
+
 ## 3. ⚙️ Operación Elemental
 
 🔸 **🔧 ¿Qué es una Operación Elemental?**
@@ -151,7 +155,7 @@ Fin
 
 ---
 
-## 🧩 4. Ejemplos Interactivos
+## 4. 🧩 Ejemplos Interactivos
 
 ```mermaid
 graph TD
@@ -165,10 +169,10 @@ E --> F[Mostrar suma]
 
 ---
 
-## 🧠 5. Mini Reto / Quiz
+## 5. 🧠 Mini Reto / Quiz
 
-<details>
-<summary>🧠 Preguntas</summary>
+
+🔸 **🧠 Preguntas**
 
 1. ¿Qué propiedad garantiza que un algoritmo no se ejecute para siempre?  
 2. ¿Cuál es la diferencia entre caso peor y caso promedio?  
@@ -187,13 +191,9 @@ E --> F[Mostrar suma]
 
 ---
 
-## 📚 6. Referencias
+## 6. 📚 Referencias
 
 - Brassard, G. & Bratley, P. (2002). *Fundamentos de Algoritmia*. Prentice Hall.  
 - Cormen, T., et al. (2009). *Introduction to Algorithms*. MIT Press.  
 
----
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Aprende+Algoritmos+de+forma+visual+%26+divertida!;Con+Fundamentos+reales+y+ejemplos+claros."/>
-</p>
