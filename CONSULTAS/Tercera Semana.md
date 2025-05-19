@@ -12,7 +12,8 @@
 
 ---
 
-## 📘 1. Fundamentos
+## 1. 📘 Fundamentos
+
 
 🔸 🔍 **Definición de Algoritmo**
 
@@ -65,8 +66,7 @@ Fin
 ```
 <br>
 
-
-## 💣 2. Caso Peor
+## 2. 💣 Caso Peor
 
 🔸 **😱 ¿Qué es el Caso Peor?**
 
@@ -109,8 +109,7 @@ D --> B
 | Peor caso      | Escenario más desfavorable   | O(n)        |
 
 ---
-
-## ⚙️ 3. Operación Elemental
+## 3. ⚙️ Operación Elemental
 
 🔸 **🔧 ¿Qué es una Operación Elemental?**
 
