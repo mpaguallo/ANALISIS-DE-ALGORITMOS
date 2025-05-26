@@ -1,7 +1,7 @@
 <h1 align="center">🎯 ¡Entiende cómo crecen los algoritmos! 🌟</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=33c7ff&center=true&vCenter=true&width=435&lines='Notación+Asintótica'"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=f95050&center=true&vCenter=true&width=435&lines='Notación+Asintótica'"/>
 </p>
 
 ---
@@ -48,16 +48,11 @@ Una función `f(n)` es **O(g(n))** si existen constantes positivas `c` y `n₀` 
 
 Supongamos que un algoritmo realiza:
 
-\```math
 f(n) = 3n + 5
-\```
-
 - Cuando `n` es grande, el término `3n` es el que manda. El `+5` es como una gota en el océano 🌊.  
 - Ignoramos el coeficiente `3` y el término constante `5`. Entonces:
 
-\```math
 f(n) = O(n)
-\```
 
 **Resultado**: El algoritmo tiene un crecimiento **lineal**. 📈
 
