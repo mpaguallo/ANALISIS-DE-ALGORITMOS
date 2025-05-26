@@ -204,7 +204,7 @@ Un algoritmo cuya complejidad depende de si la entrada es par o impar tiene una:
 - 🧑‍🏫 Curso gratuito en [Visualgo](https://visualgo.net/en)
 
 ---
-## 6. 📚 Referencias
+##  📚 Referencias
 
 - Brassard, G. & Bratley, P. (2002). *Fundamentos de Algoritmia*. Prentice Hall.  
 - Cormen, T., et al. (2009). *Introduction to Algorithms*. MIT Press.  
