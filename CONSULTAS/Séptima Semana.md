@@ -137,4 +137,6 @@ int binarySearch(int[] A, int x) {
 - 🎥 [YouTube: Master Theorem y Recurrencias](https://www.youtube.com/results?search_query=teorema+maestro+recurrencias)
 
 ---
-
+> 🧾 *Referencias:*  
+> 📘 Brassard, G. & Bratley, P. (2002). Fundamentos de Algoritmia. Prentice Hall.  
+> 📙 Cormen, T., et al. (2009). Introduction to Algorithms. MIT Press.Fundamentos de Algoritmia (Brassard & Bratley)
