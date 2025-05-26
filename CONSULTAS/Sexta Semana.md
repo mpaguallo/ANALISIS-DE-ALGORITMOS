@@ -152,6 +152,16 @@ public class ParImpar {
 
 
 ---
+## 🎯 Video Educativo
+<p align="center">
+  <strong>🎥 Para una mejor explicación, puedes ver el siguiente video:</strong><br><br>
+  <a href="https://www.youtube.com/watch?v=rDynuZstCwU&t=9s">
+    <img src="https://img.youtube.com/vi/rDynuZstCwU/0.jpg" alt="Video explicativo" width="500">
+  </a><br>
+  ⬆️ Haz clic en la imagen para verlo en YouTube
+</p>
+
+---
 
 ## 📋 MiniQuiz: ¿Qué tanto sabes sobre estructuras de control en Java?
 
