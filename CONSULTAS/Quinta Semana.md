@@ -1,5 +1,9 @@
 
-# 📊 Caracterización de los Tiempos de Ejecución
+<div align="center">
+
+  <h1>📊 Caracterización de los Tiempos de Ejecución</h1>
+
+</div>
 
 📚 Aquí exploraremos tres herramientas clave para analizar algoritmos: **Ω (Omega)**, **Θ (Theta)** y la **Notación Asintótica Condicional**.
 
@@ -46,7 +50,7 @@ int buscar(int[] lista, int clave) {
 ✅ En el **mejor caso**, está en la primera posición → **Ω(1)**
 
 <p align="center">
-  <img src="https://d8it4huxumps7.cloudfront.net/uploads/images/67a48ff5202a0_omega_notation.jpg?d=2000x2000" alt="Omega Notation" width="360"/>
+  <img src="https://d8it4huxumps7.cloudfront.net/uploads/images/67a48ff5202a0_omega_notation.jpg?d=2000x2000" alt="Omega Notation" width="320"/>
 </p>
 
 ---
@@ -76,7 +80,7 @@ int suma(int[] A) {
 📊 Ejecuta una operación por cada elemento → **Θ(n)**
 
 <p align="center">
-  <img src="https://cdn.kastatic.org/ka-perseus-images/2bdc25c7eda8486d05b8031c5a63535684ecb5a1.png" alt="Omega Notation" width="360"/>
+  <img src="https://cdn.kastatic.org/ka-perseus-images/2bdc25c7eda8486d05b8031c5a63535684ecb5a1.png" alt="Omega Notation" width="320"/>
 </p>
 
 ---
@@ -87,12 +91,21 @@ int suma(int[] A) {
 
 📘 **Ejemplo clásico:**
 
-```python
-def algoritmo(x):
-    if x % 2 == 0:
-        return x // 2
-    else:
-        return 3 * x + 1
+```java
+public class Collatz {
+    public static int algoritmo(int x) {
+        if (x % 2 == 0) {
+            return x / 2;
+        } else {
+            return 3 * x + 1;
+        }
+    }
+
+    public static void main(String[] args) {
+        int resultado = algoritmo(6);
+        System.out.println("Resultado: " + resultado);
+    }
+}
 ```
 
 🎲 El tiempo de ejecución depende de si `x` es par o impar → no se puede determinar con certeza su orden exacto sin saber más.
