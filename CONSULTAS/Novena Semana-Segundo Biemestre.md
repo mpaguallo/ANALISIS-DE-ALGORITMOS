@@ -176,6 +176,6 @@ Mientras(hay vértices no visitados){
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&multiline=true&width=600&lines=🧠+Elige+con+inteligencia+local%2C+espera+éxito+global!" alt="Animación Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&multiline=true&width=600&lines=🧠+Elige+con+inteligencia+local%2C+espera+éxito!" alt="Animación Typing" />
 </p>
 
